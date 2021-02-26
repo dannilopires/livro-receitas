@@ -1,3 +1,4 @@
-#Livro de receitas :cook
+# Livro de receitas 
+## Exercício básico
 
 
