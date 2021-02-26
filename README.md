@@ -1,4 +1,4 @@
 # Livro de receitas :cook:
-## Exercício básico
+## Exercício básico :computer:
 
 
